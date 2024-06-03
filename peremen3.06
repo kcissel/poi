@@ -1,0 +1,12 @@
+homework=12
+hours=1.5
+name_of_the_course='Python'
+one_task=(1.5/12)
+print('Курс:',name_of_the_course, ', всего задач:',homework,', затраченно часов:', hours, ', среднее время выполнения', one_task, 'часа')
+
+
+
+
+
+
+
